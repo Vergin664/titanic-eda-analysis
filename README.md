@@ -52,6 +52,7 @@ To perform detailed Exploratory Data Analysis on the Titanic dataset to extract 
 **Deliverables:**
 * Jupyter Notebook with observations, insights and visualizations
 * This README file
+* Dataset Source: Titanic -( kaggle : https://www.kaggle.com/datasets/yasserh/titanic-dataset)
 
 **Tools Used:**
 * Python
