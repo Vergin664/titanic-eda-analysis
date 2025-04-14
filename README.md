@@ -50,8 +50,7 @@ To perform detailed Exploratory Data Analysis on the Titanic dataset to extract 
 * Most passengers embarked from SouthamptonLarge families (high SibSp/Parch) were rare but often had lower survival.
 
 **Deliverables:**
-* Jupyter Notebook with visualizations
-* PDF Report with observations and insights
+* Jupyter Notebook with observations, insights and visualizations
 * This README file
 
 **Tools Used:**
